@@ -195,3 +195,5 @@ export function AddApplicationModal({ isOpen, onClose, properties, onSave }: Pro
     </Dialog>
   )
 }
+
+

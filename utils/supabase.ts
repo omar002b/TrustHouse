@@ -38,3 +38,4 @@ export async function deleteProperty(propertyData: Partial<PropertyData> & { id:
         .eq('id', propertyData.id)
     return { error }
 }
+
